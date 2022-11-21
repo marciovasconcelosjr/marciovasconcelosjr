@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Márcio Vasconcelos.
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando .NET
+- 🌱 Estudando Backend (Java / C#)
 - 😄 Pronouns: ele/dele
 
 <div align="center">
